@@ -107,26 +107,25 @@ body{
 
 .apresentacao__conteudo__texto:hover{
     color:var(--cor-terciaria) ; 
-  }
+}
   
   
-  .apresentacao__links__subtitulo:hover{
-      color:var(--cor-terciaria) ;
-  }
+.apresentacao__links__subtitulo:hover{
+    color:var(--cor-terciaria) ;
+}
   
   
-  .titulo-destaque:hover{
-      color:var(--cor-secundaria)
-  } 
+.titulo-destaque:hover{
+    color:var(--cor-secundaria)
+} 
   
-  .apresentacao__conteudo__titulo:hover{
-      color:var(--cor-terciaria);
-  }
+.apresentacao__conteudo__titulo:hover{
+    color:var(--cor-terciaria);
+}
   
   .cabecalho__menu__link:hover{
     color: var(--cor-secundaria);
-  }
-
+}
 
 
 
